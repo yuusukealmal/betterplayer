@@ -64,6 +64,8 @@ android {
         implementation "androidx.annotation:annotation:$annotationVersion"
         implementation "androidx.work:work-runtime:$workVersion"
     }
+
+    namespace 'com.jhomlala.better_player'
 }
 
 dependencies {
